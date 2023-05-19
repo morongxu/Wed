@@ -1,1 +1,18 @@
 https://shiodakagu.com/
+
+
+
+
+.co::before {
+  content: "[";
+  position: relative;
+  left: 0;
+  font-weight: 100;
+}
+
+.co::after {
+  content: "]";
+  position: relative;
+  right: 0;
+  font-weight: 100;
+}
