@@ -1,0 +1,92 @@
+.wa{
+  margin-bottom: 2.5vw;
+  font-size: 1rem;
+  line-height: 1.8em;
+  letter-spacing: 0.1em;
+  text-align: left;
+  background:white;
+}
+.wb,.wd{
+  margin-bottom: 2.5vw;
+  position: relative;
+  margin: 0 0 20px;
+  padding: 0;
+  text-align: left;
+  letter-spacing: 0.1em;
+  font-size: 0.85rem;
+  font-weight: 300;
+  line-height: 2em;
+}
+.wd{
+  margin-bottom: 30px;
+}
+.wc{
+  padding-left: 30px;
+  position: relative;
+  font-size: 1rem;
+  text-align:left;
+  font-weight: 300;
+  line-height: 2em;
+}
+span{
+  font-size: 0.9rem;
+}
+.wz{
+  float: left;
+  text-align: left;
+  width: calc(50% - 25px);
+  padding: 50px;
+  border-radius: 3px;
+  margin: 0;
+  font-weight: 300;
+  line-height: 2em;
+  font-size: 1rem;
+}
+.chizi{
+  float:right;
+  width: 100%;
+  padding-top: 80%;
+  top:0;
+  position: relative;
+  overflow: hidden;
+  border-radius: 3px;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.big1{
+  float: right;
+}
+.jiaju{
+  float: left ;
+}
+.qu{
+  float: none;
+}
+
+.zp{
+  height: 2rem;
+  width: 2rem;
+  text-align:center;
+  font-size: 0.85rem;
+  margin-bottom: 10px;
+  line-height: 2em;
+  line-height: 2em;
+  background: #fff;
+  /* font-weight: bold; */
+}
+p{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  padding: 0;
+  font-size: 0.85rem;
+  display: block;
+  border: 0;
+  margin: 0 0 20px;
+  padding: 0;
+  text-align: left;
+  letter-spacing: 0.1em;
+  margin-bottom: 0;
+}
