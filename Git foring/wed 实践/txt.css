@@ -16,6 +16,7 @@
   font-size: 0.85rem;
   font-weight: 300;
   line-height: 2em;
+  background:white;
 }
 .wd{
   margin-bottom: 30px;
@@ -27,6 +28,7 @@
   text-align:left;
   font-weight: 300;
   line-height: 2em;
+  background:white;
 }
 span{
   font-size: 0.9rem;
@@ -35,14 +37,66 @@ span{
   float: left;
   text-align: left;
   width: calc(50% - 25px);
-  padding: 50px;
+  padding: 20.4px;
   border-radius: 3px;
-  margin: 0;
+  margin-top: -136px;
   font-weight: 300;
   line-height: 2em;
   font-size: 1rem;
+  background-color: #fff;
+}
+
+.yin1{
+  float: left;
+  text-align: center;
+  font-size: 1rem;
+  padding: 0;
+  border: 0;
+  display: block;
+  max-width: 1500px;
+  margin: 0 auto;
+  margin-bottom: 0;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  width: calc(100% - 100px);
 }
 .chizi{
+  line-height: 1;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+  padding-top: 40%;
+  width: 55%;
+  float:right;
+}
+.yin2{
+  font-weight: 300;
+  line-height: 2em;
+  color: #000;
+  text-align: center;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  display: block;
+  max-width: 1500px;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin-bottom: 0;
+  float: right;
+}
+.jiaju{
   float:right;
   width: 100%;
   padding-top: 80%;
@@ -58,23 +112,26 @@ span{
 .big1{
   float: right;
 }
-.jiaju{
-  float: left ;
-}
-.qu{
-  float: none;
-}
-
-.zp{
-  height: 2rem;
-  width: 2rem;
-  text-align:center;
-  font-size: 0.85rem;
-  margin-bottom: 10px;
-  line-height: 2em;
-  line-height: 2em;
+.p1,.p2{
+  float: left;
+  font-weight: 300;
   background: #fff;
-  /* font-weight: bold; */
+  color: #000;
+  text-align: center;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  line-height: 0;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  width: 500px;
+  height: 500px;
 }
 p{
   margin-left: auto;
