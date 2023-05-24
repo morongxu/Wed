@@ -45,7 +45,6 @@ span{
   font-size: 1rem;
   background-color: #fff;
 }
-
 .yin1{
   float: left;
   text-align: center;
@@ -57,8 +56,8 @@ span{
   margin: 0 auto;
   margin-bottom: 0;
   position: relative;
-  top: 100px;
-  left: 100px;
+  top: -100px;
+  left: 150px;
   width: calc(100% - 100px);
 }
 .chizi{
@@ -91,8 +90,8 @@ span{
   margin: 0 auto;
   width: 100%;
   position: relative;
-  top: 0;
-  left: 0;
+  top: -150px;
+  left: 300px;
   margin-bottom: 0;
   float: right;
 }
@@ -134,8 +133,7 @@ span{
   height: 500px;
 }
 p{
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   position: relative;
   padding: 0;
   font-size: 0.85rem;
@@ -146,4 +144,49 @@ p{
   text-align: left;
   letter-spacing: 0.1em;
   margin-bottom: 0;
+}
+.zbu{
+  height: 1000px;
+}
+.p3i img{
+  border-radius: 3px;
+  overflow: hidden;
+  text-decoration: none;
+  background: #fff;
+  display: block;
+  width: 100%;
+  margin: 0 auto 5vw;
+  margin-right: 50px;
+  margin-bottom: 1rem;
+}
+.title{
+  font-size: 0.8rem;
+  text-align:center;
+  margin-bottom: 5px;
+}
+.lan{
+  border-radius: 3px;
+  overflow: hidden;
+  padding: 1em;
+}
+.di,.di img{
+  position: relative;
+  /* left: 50%;
+  top: 50%; */
+  height: 100%;
+  width: auto;
+}
+.dakuai{
+  font-weight: 300;
+  line-height: 2em;
+  background: #fff;
+  font-size: 1rem;
+  margin-bottom:5vw;
+}
+
+.tri{
+  padding: 0px 50px 0px;
+}
+.dibu1, .kuang, .lit{
+  text-align: center;
 }
